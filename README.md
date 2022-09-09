@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 🙂🫶🏻
 
 <!--
 **ChumakAn/ChumakAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ChumakAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChumakAn)](https://github.com/ChumakAn/github-readme-stats)
 <p align="start">
-<img src="https://github-readme-stats.vercel.app/api?username=ChumakAn&show_icons=true&&theme=jolly" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumakAn&layout=compact&theme=jolly"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChumakAn&show_icons=true&&theme=material-palenight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumakAn&layout=compact&theme=material-palenight"/>
 </p>
 
 <!-- BADGES -->
