@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ChumakAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChumakAn)](https://github.com/ChumakAn/github-readme-stats)
+<p align="start">
+<img src="https://github-readme-stats.vercel.app/api?username=ChumakAn&show_icons=true&&theme=jolly" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumakAn&layout=compact&theme=jolly"/>
+</p>
+
+<!-- BADGES -->
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChumakAn/&count_bg=%23EB28BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views)
