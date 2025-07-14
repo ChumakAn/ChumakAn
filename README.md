@@ -52,6 +52,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chumakan&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="chumakan" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chumakan&" alt="chumakan" /></p>
 
 
